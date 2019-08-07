@@ -1,0 +1,30 @@
+#importar pacotes
+library(forecast)
+library(ggplot2)
+library(urca)
+
+#importar dados
+dados = read.csv(file.choose(),header = F)
+print(dados)
+
+#treino/teste 
+dados = ts(dados, start = c(1976,1), end = c(2017,12), frequency=12)
+ocupacaotreino = window(dados, start = c(1976,1), end = c(2015,12))
+ocupacaoteste  = window(dados, start = c(2016,1), end = c(2017,12))
+
+#ARIMA
+modeloarima = auto.arima(ocupacaotreino,  trace = F,stepwise = F, approximation = F )
+preverarima = forecast(modeloarima, h=24)
+
+#RNA
+modelorna = nnetar(ocupacaotreino)
+prevrna   = forecast(modelorna, h=24)
+
+accuracy(preverarima,ocupacaoteste)
+accuracy(prevrna,ocupacaoteste)
+
+#Comparação de predição de ARIMA x RNA
+plot(ph2,ylab="pH",xlab="ano",main="Comparação de predição de ARIMA x RNA",pch=20)
+legend("bottomright", legend=c("ARIMA", "RNA"),col=c("green", "red"), lty=1:2, cex=0.8)
+lines(preverarima$mean, col="green")
+lines(preverneural$mean, col="red")
