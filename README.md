@@ -1,1 +1,3 @@
-# predicaoagua
+# Predição de parâmetros da qualidade da água usando aprendizado de máquina
+
+Water quality is directly related to its level of pollution, and for this, monitoring is necessary to identify the physical, chemical and biological characteristics, considering the current legislation. In order to improve the management of water bodies several scientific experiments were carried out by applying the combination of algorithms, most neural networks, to predict water quality parameters, using statistical techniques as a way to organize the data set that will serve as input for machine learning algorithms. In only two studies linear regression was used, but as an alternative for the evaluation of other models. 
