@@ -1,0 +1,9 @@
+,parametro,tecnica,mape_treino,rmse_treino,std_rmse_treino,r_quad_treino,mape_teste,rmse_teste,std_rmse_teste,r_quad_teste
+0,ph,LSTM (Univar.),5.4,0.39,0.02,0.1,5.43,0.39,0.02,0.01
+1,coliformes,LSTM (Univar.),1740358.9,1554621.63,37719.07,0.25,2694643.88,1125925.38,89874.09,0.2
+2,dbo,LSTM (Univar.),111.46,11.14,0.22,0.49,123.78,12.27,0.43,0.27
+3,fosforo,LSTM (Univar.),99.58,256.94,0.61,0.28,99.63,282.25,0.04,0.02
+4,od,LSTM (Univar.),47.34,2.38,0.02,0.11,42.82,2.01,0.01,0.01
+5,solido,LSTM (Univar.),16.19,46.66,1.5,0.3,14.98,49.35,1.26,0.02
+6,temperatura,LSTM (Univar.),8.45,2.51,0.02,0.09,10.55,3.17,0.02,0.04
+7,turbidez,LSTM (Univar.),46.41,15.6,0.45,0.03,50.32,18.93,0.41,0.01

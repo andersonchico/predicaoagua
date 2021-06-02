@@ -1,0 +1,8 @@
+tecnica,parametro,mape_treino,rmse_treino,std_rmse_treino,r_quad_treino,mape_teste,rmse_teste,std_rmse_teste,r_quad_teste
+0,LSTM (Var. selec.),ph,5.29,0.38,0.01,0.09,5.18,0.37,0.02,0.0
+1,LSTM (Var. selec.),coliformes,2298905.07,1704729.21,25506.2,0.23,3548155.2,1275654.27,60160.25,0.13
+2,LSTM (Var. selec.),dbo,103.83,9.64,0.5,0.39,120.49,11.07,0.63,0.25
+3,LSTM (Var. selec.),fosforo,147.65,0.49,0.01,0.21,200.74,0.51,0.0,0.03
+4,LSTM (Var. selec.),od,47.43,2.39,0.01,0.05,44.38,2.09,0.01,0.01
+5,LSTM (Var. selec.),solido,16.57,48.19,1.37,0.15,13.83,48.38,0.66,0.01
+6,LSTM (Var. selec.),turbidez,47.1,15.65,0.35,0.01,49.94,19.24,0.35,0.01

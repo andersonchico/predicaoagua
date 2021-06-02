@@ -1,0 +1,8 @@
+,tecnica,parametro,mape_treino,rmse_treino,std_rmse_treino,r_quad_treino,mape_teste,rmse_teste,std_rmse_teste,r_quad_teste
+0,RL (Var. selec.),ph,6.78,0.51,0.01,0.09,5.67,0.43,0.01,0.0
+1,RL (Var. selec.),coliformes,1860368.21,1699074.74,28674.6,0.29,2826446.5,1239189.23,100325.64,0.25
+2,RL (Var. selec.),dbo,106.43,10.56,0.22,0.32,126.93,12.55,0.33,0.15
+3,RL (Var. selec.),fosforo,116.6,0.43,0.01,0.24,242.58,0.58,0.03,0.01
+4,RL (Var. selec.),od,47.99,2.4,0.02,0.06,45.82,2.14,0.04,0.01
+5,RL (Var. selec.),solido,18.21,58.83,6.72,0.23,24.45,78.53,9.26,0.01
+6,RL (Var. selec.),turbidez,47.04,15.25,0.32,0.06,50.33,18.31,0.12,0.06

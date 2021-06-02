@@ -1,0 +1,8 @@
+tecnica,parametro,mape_treino,rmse_treino,std_rmse_treino,r_quad_treino,mape_teste,rmse_teste,std_rmse_teste,r_quad_teste
+0,MLP (Var. selec.),ph,5.0,0.36,0.01,0.06,4.74,0.34,0.01,0.0
+1,MLP (Var. selec.),coliformes,2244659.92,1702931.01,31150.58,0.26,3327801.0,1274649.76,31002.99,0.22
+2,MLP (Var. selec.),dbo,127.52,11.32,0.51,0.18,119.47,11.2,0.44,0.12
+3,MLP (Var. selec.),fosforo,148.92,0.49,0.01,0.1,200.93,0.52,0.01,0.02
+4,MLP (Var. selec.),od,47.91,2.42,0.02,0.02,44.25,2.08,0.02,0.01
+5,MLP (Var. selec.),solido,17.09,49.65,0.67,0.06,14.4,50.37,1.61,0.01
+6,MLP (Var. selec.),turbidez,47.39,15.7,0.43,0.01,49.53,19.45,0.51,0.01

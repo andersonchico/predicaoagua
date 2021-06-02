@@ -1,0 +1,9 @@
+,tecnica,parametro,mape_treino,rmse_treino,std_rmse_treino,r_quad_treino,mape_teste,rmse_teste,std_rmse_teste,r_quad_teste
+0,RF (Univar.),ph,7.21,0.54,0.01,0.1,6.31,0.47,0.02,0.01
+1,RF (Univar.),coliformes,1882203.15,1714734.12,31107.15,0.26,2883778.74,1254501.68,38952.6,0.27
+2,RF (Univar.),dbo,109.16,11.99,0.55,0.42,132.05,13.62,0.4,0.18
+3,RF (Univar.),fosforo,99.58,256.88,0.58,0.19,99.58,282.11,0.02,0.0
+4,RF (Univar.),od,48.8,2.44,0.03,0.05,45.88,2.14,0.04,0.0
+5,RF (Univar.),solido,17.77,56.13,3.62,0.25,21.24,67.52,2.81,0.02
+6,RF (Univar.),temperatura,8.15,2.43,0.04,0.14,10.38,3.08,0.09,0.05
+7,RF (Univar.),turbidez,44.94,14.67,0.31,0.09,50.35,17.81,0.62,0.06
