@@ -1,0 +1,5 @@
+Latitude
+S 6° 48' 52.92''
+
+Longitude
+W 50° 32' 25.08''
