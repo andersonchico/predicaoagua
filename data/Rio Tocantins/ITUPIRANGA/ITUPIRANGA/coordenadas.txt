@@ -1,5 +1,0 @@
-Latitude
-S 5° 7' 41.16''
-
-Longitude
-W 49° 19' 27.12''
