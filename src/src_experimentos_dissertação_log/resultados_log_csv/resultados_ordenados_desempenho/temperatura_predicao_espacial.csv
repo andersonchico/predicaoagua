@@ -1,9 +1,9 @@
 ,parametro,AM,mape_treino,rmse_treino,std_rmse_treino,r_quad_treino,mape_teste,rmse_teste,std_rmse_teste,r_quad_teste
-24,temperatura,RL (Univariado),2.04,0.04,0.0,0.1705,2.1,0.04,0.0,0.0124
+24,temperatura,RL (Univariado),2.04,0.04,0.0,0.17,2.1,0.04,0.0,0.01
 24,temperatura,RL (Todas var.),2.16,0.04,0.0,0.08,2.18,0.04,0.0,0.01
 25,temperatura,RF (Todas var.),1.5,0.02,0.02,0.51,2.18,0.04,0.0,0.01
-27,temperatura,LSTM (Univariado),2.235714285714286,0.03857142857142857,0.005150787536377125,0.2080714285714286,2.2657142857142865,0.04,6.938893903907227e-18,0.014442857142857144
-25,temperatura,RF (Univariado),1.605,0.03,0.01,0.44035,2.285,0.04,0.0,0.01395
+27,temperatura,LSTM (Univariado),2.24,0.04,0.01,0.21,2.27,0.04,0.0,0.01
+25,temperatura,RF (Univariado),1.6,0.03,0.01,0.44,2.28,0.04,0.0,0.01
 27,temperatura,LSTM (Todas var.),2.31,0.04,0.01,0.09,2.32,0.04,0.0,0.01
-26,temperatura,MLP (Univariado),2.31625,0.037500000000000006,0.006614378277661476,0.23735,2.42625,0.04,0.0,0.0141125
+26,temperatura,MLP (Univariado),2.32,0.04,0.01,0.24,2.43,0.04,0.0,0.01
 26,temperatura,MLP (Todas var.),2.34,0.04,0.01,0.14,2.43,0.04,0.0,0.01
