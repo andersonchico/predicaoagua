@@ -1,0 +1,9 @@
+,tecnica,parametro,mape_treino,rmse_treino,std_rmse_treino,r_quad_treino,mape_teste,rmse_teste,std_rmse_teste,r_quad_teste
+0,RF (Todas var.),ph,2.25,0.02,0.0,0.09,2.05,0.02,0.0,0.0
+1,RF (Todas var.),coliformes,55.38,1.36,0.02,0.01,76.46,1.5,0.05,0.03
+2,RF (Todas var.),dbo,26.29,0.23,0.02,0.26,26.46,0.3,0.01,0.0
+3,RF (Todas var.),fosforo,126.1,0.13,0.01,0.14,182.55,0.16,0.01,0.02
+4,RF (Todas var.),od,36.83,0.29,0.01,0.02,29.66,0.23,0.01,0.0
+5,RF (Todas var.),solido,4.48,0.1,0.01,0.26,3.63,0.11,0.02,0.02
+6,RF (Todas var.),temperatura,2.55,0.04,0.0,0.0,2.82,0.05,0.0,0.03
+7,RF (Todas var.),turbidez,15.64,0.28,0.01,0.0,15.26,0.27,0.01,0.0
