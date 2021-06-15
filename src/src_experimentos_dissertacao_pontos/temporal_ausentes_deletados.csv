@@ -1,0 +1,33 @@
+,tecnica,parametro,amostras,mape
+0,Regressão Linear,Coliformes Termotolerantes,151,39.2
+1,Random Forest,Coliformes Termotolerantes,151,43.57
+2,MLP,Coliformes Termotolerantes,151,36.15
+3,LSTM,Coliformes Termotolerantes,151,35.19
+4,Regressão Linear,Oxigênio Dissolvido,204,27.87
+5,Random Forest,Oxigênio Dissolvido,204,34.33
+6,MLP,Oxigênio Dissolvido,204,29.94
+7,LSTM,Oxigênio Dissolvido,204,29.44
+8,Regressão Linear,Turbidez,189,46.44
+9,Random Forest,Turbidez,189,90.3
+10,MLP,Turbidez,189,51.31
+11,LSTM,Turbidez,189,58.84
+12,Regressão Linear,Fósforo Total,192,15.29
+13,Random Forest,Fósforo Total,192,15.6
+14,MLP,Fósforo Total,192,15.53
+15,LSTM,Fósforo Total,192,15.22
+16,Regressão Linear,Sólido Total,205,11.8
+17,Random Forest,Sólido Total,205,3.95
+18,MLP,Sólido Total,205,13.7
+19,LSTM,Sólido Total,205,13.91
+20,Regressão Linear,"DBO (5, 20)",161,8.34
+21,Random Forest,"DBO (5, 20)",161,4.62
+22,MLP,"DBO (5, 20)",161,2.05
+23,LSTM,"DBO (5, 20)",161,2.65
+24,Regressão Linear,Temperatura da Água,195,2.37
+25,Random Forest,Temperatura da Água,195,2.86
+26,MLP,Temperatura da Água,195,2.4
+27,LSTM,Temperatura da Água,195,2.37
+28,Regressão Linear,pH,179,1.49
+29,Random Forest,pH,179,1.54
+30,MLP,pH,179,1.48
+31,LSTM,pH,179,1.46
