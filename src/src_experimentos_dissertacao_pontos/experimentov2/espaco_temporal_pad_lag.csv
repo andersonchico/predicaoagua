@@ -1,0 +1,321 @@
+,tecnica,parametro,amostras,mape,lag
+0,Regressão Linear,Coliformes Termotolerantes,179,26.49,1
+1,Random Forest,Coliformes Termotolerantes,179,29.41,1
+2,MLP,Coliformes Termotolerantes,179,32.46,1
+3,LSTM,Coliformes Termotolerantes,179,31.96,1
+4,Regressão Linear,Coliformes Termotolerantes,179,25.84,2
+5,Random Forest,Coliformes Termotolerantes,179,27.53,2
+6,MLP,Coliformes Termotolerantes,179,30.69,2
+7,LSTM,Coliformes Termotolerantes,179,31.16,1
+8,Regressão Linear,Coliformes Termotolerantes,179,25.62,3
+9,Random Forest,Coliformes Termotolerantes,179,27.96,3
+10,MLP,Coliformes Termotolerantes,179,30.6,3
+11,LSTM,Coliformes Termotolerantes,179,30.95,1
+12,Regressão Linear,Coliformes Termotolerantes,179,24.49,4
+13,Random Forest,Coliformes Termotolerantes,179,27.26,4
+14,MLP,Coliformes Termotolerantes,179,29.99,4
+15,LSTM,Coliformes Termotolerantes,179,29.66,1
+16,Regressão Linear,Coliformes Termotolerantes,179,23.49,5
+17,Random Forest,Coliformes Termotolerantes,179,26.15,5
+18,MLP,Coliformes Termotolerantes,179,29.46,5
+19,LSTM,Coliformes Termotolerantes,179,31.56,1
+20,Regressão Linear,Coliformes Termotolerantes,179,24.06,6
+21,Random Forest,Coliformes Termotolerantes,179,26.66,6
+22,MLP,Coliformes Termotolerantes,179,29.95,6
+23,LSTM,Coliformes Termotolerantes,179,30.88,1
+24,Regressão Linear,Coliformes Termotolerantes,179,23.12,7
+25,Random Forest,Coliformes Termotolerantes,179,26.02,7
+26,MLP,Coliformes Termotolerantes,179,30.74,7
+27,LSTM,Coliformes Termotolerantes,179,30.72,1
+28,Regressão Linear,Coliformes Termotolerantes,179,22.79,8
+29,Random Forest,Coliformes Termotolerantes,179,25.85,8
+30,MLP,Coliformes Termotolerantes,179,27.79,8
+31,LSTM,Coliformes Termotolerantes,179,30.61,1
+32,Regressão Linear,Coliformes Termotolerantes,179,22.07,9
+33,Random Forest,Coliformes Termotolerantes,179,24.85,9
+34,MLP,Coliformes Termotolerantes,179,29.67,9
+35,LSTM,Coliformes Termotolerantes,179,31.27,1
+36,Regressão Linear,Coliformes Termotolerantes,179,22.36,10
+37,Random Forest,Coliformes Termotolerantes,179,23.6,10
+38,MLP,Coliformes Termotolerantes,179,30.91,10
+39,LSTM,Coliformes Termotolerantes,179,31.5,1
+40,Regressão Linear,Oxigênio Dissolvido,179,15.17,1
+41,Random Forest,Oxigênio Dissolvido,179,16.96,1
+42,MLP,Oxigênio Dissolvido,179,15.67,1
+43,LSTM,Oxigênio Dissolvido,179,15.54,1
+44,Regressão Linear,Oxigênio Dissolvido,179,15.57,2
+45,Random Forest,Oxigênio Dissolvido,179,16.72,2
+46,MLP,Oxigênio Dissolvido,179,15.88,2
+47,LSTM,Oxigênio Dissolvido,179,15.65,1
+48,Regressão Linear,Oxigênio Dissolvido,179,15.96,3
+49,Random Forest,Oxigênio Dissolvido,179,15.66,3
+50,MLP,Oxigênio Dissolvido,179,15.99,3
+51,LSTM,Oxigênio Dissolvido,179,15.64,1
+52,Regressão Linear,Oxigênio Dissolvido,179,16.22,4
+53,Random Forest,Oxigênio Dissolvido,179,15.84,4
+54,MLP,Oxigênio Dissolvido,179,16.01,4
+55,LSTM,Oxigênio Dissolvido,179,15.56,1
+56,Regressão Linear,Oxigênio Dissolvido,179,15.73,5
+57,Random Forest,Oxigênio Dissolvido,179,15.08,5
+58,MLP,Oxigênio Dissolvido,179,15.45,5
+59,LSTM,Oxigênio Dissolvido,179,15.62,1
+60,Regressão Linear,Oxigênio Dissolvido,179,15.97,6
+61,Random Forest,Oxigênio Dissolvido,179,15.08,6
+62,MLP,Oxigênio Dissolvido,179,15.57,6
+63,LSTM,Oxigênio Dissolvido,179,15.61,1
+64,Regressão Linear,Oxigênio Dissolvido,179,16.45,7
+65,Random Forest,Oxigênio Dissolvido,179,15.55,7
+66,MLP,Oxigênio Dissolvido,179,15.79,7
+67,LSTM,Oxigênio Dissolvido,179,15.48,1
+68,Regressão Linear,Oxigênio Dissolvido,179,16.1,8
+69,Random Forest,Oxigênio Dissolvido,179,15.85,8
+70,MLP,Oxigênio Dissolvido,179,15.75,8
+71,LSTM,Oxigênio Dissolvido,179,15.48,1
+72,Regressão Linear,Oxigênio Dissolvido,179,15.9,9
+73,Random Forest,Oxigênio Dissolvido,179,15.66,9
+74,MLP,Oxigênio Dissolvido,179,15.69,9
+75,LSTM,Oxigênio Dissolvido,179,15.67,1
+76,Regressão Linear,Oxigênio Dissolvido,179,15.63,10
+77,Random Forest,Oxigênio Dissolvido,179,14.51,10
+78,MLP,Oxigênio Dissolvido,179,15.51,10
+79,LSTM,Oxigênio Dissolvido,179,15.74,1
+80,Regressão Linear,Turbidez,179,35.55,1
+81,Random Forest,Turbidez,179,37.03,1
+82,MLP,Turbidez,179,36.09,1
+83,LSTM,Turbidez,179,36.01,1
+84,Regressão Linear,Turbidez,179,38.11,2
+85,Random Forest,Turbidez,179,40.62,2
+86,MLP,Turbidez,179,36.6,2
+87,LSTM,Turbidez,179,35.96,1
+88,Regressão Linear,Turbidez,179,38.07,3
+89,Random Forest,Turbidez,179,37.53,3
+90,MLP,Turbidez,179,36.37,3
+91,LSTM,Turbidez,179,35.96,1
+92,Regressão Linear,Turbidez,179,38.43,4
+93,Random Forest,Turbidez,179,37.94,4
+94,MLP,Turbidez,179,36.36,4
+95,LSTM,Turbidez,179,36.54,1
+96,Regressão Linear,Turbidez,179,38.94,5
+97,Random Forest,Turbidez,179,36.99,5
+98,MLP,Turbidez,179,36.28,5
+99,LSTM,Turbidez,179,35.92,1
+100,Regressão Linear,Turbidez,179,38.8,6
+101,Random Forest,Turbidez,179,36.18,6
+102,MLP,Turbidez,179,36.02,6
+103,LSTM,Turbidez,179,36.36,1
+104,Regressão Linear,Turbidez,179,38.2,7
+105,Random Forest,Turbidez,179,34.71,7
+106,MLP,Turbidez,179,36.64,7
+107,LSTM,Turbidez,179,36.58,1
+108,Regressão Linear,Turbidez,179,38.22,8
+109,Random Forest,Turbidez,179,34.84,8
+110,MLP,Turbidez,179,37.22,8
+111,LSTM,Turbidez,179,36.81,1
+112,Regressão Linear,Turbidez,179,38.21,9
+113,Random Forest,Turbidez,179,34.82,9
+114,MLP,Turbidez,179,36.25,9
+115,LSTM,Turbidez,179,36.72,1
+116,Regressão Linear,Turbidez,179,38.46,10
+117,Random Forest,Turbidez,179,34.98,10
+118,MLP,Turbidez,179,34.32,10
+119,LSTM,Turbidez,179,36.71,1
+120,Regressão Linear,Fósforo Total,179,19.77,1
+121,Random Forest,Fósforo Total,179,23.41,1
+122,MLP,Fósforo Total,179,21.77,1
+123,LSTM,Fósforo Total,179,20.58,1
+124,Regressão Linear,Fósforo Total,179,20.78,2
+125,Random Forest,Fósforo Total,179,21.14,2
+126,MLP,Fósforo Total,179,20.84,2
+127,LSTM,Fósforo Total,179,20.17,1
+128,Regressão Linear,Fósforo Total,179,21.66,3
+129,Random Forest,Fósforo Total,179,24.87,3
+130,MLP,Fósforo Total,179,19.42,3
+131,LSTM,Fósforo Total,179,20.42,1
+132,Regressão Linear,Fósforo Total,179,21.1,4
+133,Random Forest,Fósforo Total,179,22.17,4
+134,MLP,Fósforo Total,179,23.43,4
+135,LSTM,Fósforo Total,179,20.99,1
+136,Regressão Linear,Fósforo Total,179,21.03,5
+137,Random Forest,Fósforo Total,179,21.91,5
+138,MLP,Fósforo Total,179,18.71,5
+139,LSTM,Fósforo Total,179,19.86,1
+140,Regressão Linear,Fósforo Total,179,20.92,6
+141,Random Forest,Fósforo Total,179,22.51,6
+142,MLP,Fósforo Total,179,19.03,6
+143,LSTM,Fósforo Total,179,17.93,1
+144,Regressão Linear,Fósforo Total,179,21.35,7
+145,Random Forest,Fósforo Total,179,21.95,7
+146,MLP,Fósforo Total,179,17.86,7
+147,LSTM,Fósforo Total,179,19.53,1
+148,Regressão Linear,Fósforo Total,179,22.11,8
+149,Random Forest,Fósforo Total,179,21.92,8
+150,MLP,Fósforo Total,179,27.3,8
+151,LSTM,Fósforo Total,179,18.07,1
+152,Regressão Linear,Fósforo Total,179,22.37,9
+153,Random Forest,Fósforo Total,179,23.1,9
+154,MLP,Fósforo Total,179,17.59,9
+155,LSTM,Fósforo Total,179,17.88,1
+156,Regressão Linear,Fósforo Total,179,22.28,10
+157,Random Forest,Fósforo Total,179,22.15,10
+158,MLP,Fósforo Total,179,28.73,10
+159,LSTM,Fósforo Total,179,18.19,1
+160,Regressão Linear,Sólido Total,179,2.63,1
+161,Random Forest,Sólido Total,179,2.98,1
+162,MLP,Sólido Total,179,3.15,1
+163,LSTM,Sólido Total,179,3.14,1
+164,Regressão Linear,Sólido Total,179,2.49,2
+165,Random Forest,Sólido Total,179,2.59,2
+166,MLP,Sólido Total,179,3.19,2
+167,LSTM,Sólido Total,179,3.14,1
+168,Regressão Linear,Sólido Total,179,2.54,3
+169,Random Forest,Sólido Total,179,3.02,3
+170,MLP,Sólido Total,179,3.14,3
+171,LSTM,Sólido Total,179,3.22,1
+172,Regressão Linear,Sólido Total,179,2.6,4
+173,Random Forest,Sólido Total,179,3.6,4
+174,MLP,Sólido Total,179,2.97,4
+175,LSTM,Sólido Total,179,3.13,1
+176,Regressão Linear,Sólido Total,179,2.37,5
+177,Random Forest,Sólido Total,179,3.48,5
+178,MLP,Sólido Total,179,3.04,5
+179,LSTM,Sólido Total,179,3.14,1
+180,Regressão Linear,Sólido Total,179,2.27,6
+181,Random Forest,Sólido Total,179,3.4,6
+182,MLP,Sólido Total,179,3.03,6
+183,LSTM,Sólido Total,179,3.19,1
+184,Regressão Linear,Sólido Total,179,2.22,7
+185,Random Forest,Sólido Total,179,3.54,7
+186,MLP,Sólido Total,179,3.17,7
+187,LSTM,Sólido Total,179,3.04,1
+188,Regressão Linear,Sólido Total,179,2.45,8
+189,Random Forest,Sólido Total,179,3.53,8
+190,MLP,Sólido Total,179,3.12,8
+191,LSTM,Sólido Total,179,3.08,1
+192,Regressão Linear,Sólido Total,179,2.73,9
+193,Random Forest,Sólido Total,179,3.61,9
+194,MLP,Sólido Total,179,3.29,9
+195,LSTM,Sólido Total,179,3.08,1
+196,Regressão Linear,Sólido Total,179,1.2,10
+197,Random Forest,Sólido Total,179,1.43,10
+198,MLP,Sólido Total,179,0.98,10
+199,LSTM,Sólido Total,179,0.89,1
+200,Regressão Linear,"DBO (5, 20)",179,4.69,1
+201,Random Forest,"DBO (5, 20)",179,4.15,1
+202,MLP,"DBO (5, 20)",179,7.41,1
+203,LSTM,"DBO (5, 20)",179,7.51,1
+204,Regressão Linear,"DBO (5, 20)",179,4.36,2
+205,Random Forest,"DBO (5, 20)",179,3.55,2
+206,MLP,"DBO (5, 20)",179,7.45,2
+207,LSTM,"DBO (5, 20)",179,6.65,1
+208,Regressão Linear,"DBO (5, 20)",179,2.64,3
+209,Random Forest,"DBO (5, 20)",179,1.62,3
+210,MLP,"DBO (5, 20)",179,7.1,3
+211,LSTM,"DBO (5, 20)",179,7.29,1
+212,Regressão Linear,"DBO (5, 20)",179,2.58,4
+213,Random Forest,"DBO (5, 20)",179,1.81,4
+214,MLP,"DBO (5, 20)",179,7.05,4
+215,LSTM,"DBO (5, 20)",179,7.0,1
+216,Regressão Linear,"DBO (5, 20)",179,2.33,5
+217,Random Forest,"DBO (5, 20)",179,1.95,5
+218,MLP,"DBO (5, 20)",179,6.85,5
+219,LSTM,"DBO (5, 20)",179,6.84,1
+220,Regressão Linear,"DBO (5, 20)",179,2.54,6
+221,Random Forest,"DBO (5, 20)",179,2.15,6
+222,MLP,"DBO (5, 20)",179,7.13,6
+223,LSTM,"DBO (5, 20)",179,7.26,1
+224,Regressão Linear,"DBO (5, 20)",179,2.24,7
+225,Random Forest,"DBO (5, 20)",179,2.94,7
+226,MLP,"DBO (5, 20)",179,6.82,7
+227,LSTM,"DBO (5, 20)",179,6.99,1
+228,Regressão Linear,"DBO (5, 20)",179,2.61,8
+229,Random Forest,"DBO (5, 20)",179,2.03,8
+230,MLP,"DBO (5, 20)",179,7.08,8
+231,LSTM,"DBO (5, 20)",179,7.22,1
+232,Regressão Linear,"DBO (5, 20)",179,2.87,9
+233,Random Forest,"DBO (5, 20)",179,2.86,9
+234,MLP,"DBO (5, 20)",179,7.13,9
+235,LSTM,"DBO (5, 20)",179,7.12,1
+236,Regressão Linear,"DBO (5, 20)",179,2.97,10
+237,Random Forest,"DBO (5, 20)",179,4.93,10
+238,MLP,"DBO (5, 20)",179,7.46,10
+239,LSTM,"DBO (5, 20)",179,7.04,1
+240,Regressão Linear,Temperatura da Água,179,3.58,1
+241,Random Forest,Temperatura da Água,179,4.28,1
+242,MLP,Temperatura da Água,179,3.72,1
+243,LSTM,Temperatura da Água,179,3.67,1
+244,Regressão Linear,Temperatura da Água,179,3.66,2
+245,Random Forest,Temperatura da Água,179,4.78,2
+246,MLP,Temperatura da Água,179,3.65,2
+247,LSTM,Temperatura da Água,179,3.69,1
+248,Regressão Linear,Temperatura da Água,179,3.77,3
+249,Random Forest,Temperatura da Água,179,4.51,3
+250,MLP,Temperatura da Água,179,3.67,3
+251,LSTM,Temperatura da Água,179,3.69,1
+252,Regressão Linear,Temperatura da Água,179,3.84,4
+253,Random Forest,Temperatura da Água,179,4.5,4
+254,MLP,Temperatura da Água,179,3.75,4
+255,LSTM,Temperatura da Água,179,3.71,1
+256,Regressão Linear,Temperatura da Água,179,3.76,5
+257,Random Forest,Temperatura da Água,179,4.38,5
+258,MLP,Temperatura da Água,179,3.63,5
+259,LSTM,Temperatura da Água,179,3.72,1
+260,Regressão Linear,Temperatura da Água,179,3.83,6
+261,Random Forest,Temperatura da Água,179,4.34,6
+262,MLP,Temperatura da Água,179,3.59,6
+263,LSTM,Temperatura da Água,179,3.67,1
+264,Regressão Linear,Temperatura da Água,179,4.0,7
+265,Random Forest,Temperatura da Água,179,4.36,7
+266,MLP,Temperatura da Água,179,3.6,7
+267,LSTM,Temperatura da Água,179,3.74,1
+268,Regressão Linear,Temperatura da Água,179,4.06,8
+269,Random Forest,Temperatura da Água,179,4.28,8
+270,MLP,Temperatura da Água,179,3.59,8
+271,LSTM,Temperatura da Água,179,3.7,1
+272,Regressão Linear,Temperatura da Água,179,4.01,9
+273,Random Forest,Temperatura da Água,179,4.28,9
+274,MLP,Temperatura da Água,179,3.66,9
+275,LSTM,Temperatura da Água,179,3.69,1
+276,Regressão Linear,Temperatura da Água,179,4.21,10
+277,Random Forest,Temperatura da Água,179,4.29,10
+278,MLP,Temperatura da Água,179,3.76,10
+279,LSTM,Temperatura da Água,179,3.7,1
+280,Regressão Linear,pH,179,0.88,1
+281,Random Forest,pH,179,0.96,1
+282,MLP,pH,179,0.88,1
+283,LSTM,pH,179,0.88,1
+284,Regressão Linear,pH,179,0.91,2
+285,Random Forest,pH,179,0.96,2
+286,MLP,pH,179,0.89,2
+287,LSTM,pH,179,0.94,1
+288,Regressão Linear,pH,179,0.92,3
+289,Random Forest,pH,179,0.86,3
+290,MLP,pH,179,0.88,3
+291,LSTM,pH,179,0.89,1
+292,Regressão Linear,pH,179,0.92,4
+293,Random Forest,pH,179,0.96,4
+294,MLP,pH,179,1.15,4
+295,LSTM,pH,179,0.86,1
+296,Regressão Linear,pH,179,0.93,5
+297,Random Forest,pH,179,0.92,5
+298,MLP,pH,179,0.88,5
+299,LSTM,pH,179,0.87,1
+300,Regressão Linear,pH,179,0.92,6
+301,Random Forest,pH,179,0.92,6
+302,MLP,pH,179,0.87,6
+303,LSTM,pH,179,0.86,1
+304,Regressão Linear,pH,179,0.94,7
+305,Random Forest,pH,179,0.94,7
+306,MLP,pH,179,1.17,7
+307,LSTM,pH,179,0.86,1
+308,Regressão Linear,pH,179,0.94,8
+309,Random Forest,pH,179,0.89,8
+310,MLP,pH,179,0.92,8
+311,LSTM,pH,179,0.96,1
+312,Regressão Linear,pH,179,0.9,9
+313,Random Forest,pH,179,0.89,9
+314,MLP,pH,179,0.88,9
+315,LSTM,pH,179,0.89,1
+316,Regressão Linear,pH,179,0.9,10
+317,Random Forest,pH,179,0.91,10
+318,MLP,pH,179,0.91,10
+319,LSTM,pH,179,0.87,1
