@@ -1,0 +1,161 @@
+tecnica,parametro,amostras,mape,mse,rmse,lag
+MLP,Coliformes Termotolerantes,151,54.24,2.83,1.68,1
+LSTM,Coliformes Termotolerantes,151,43.54,1.91,1.38,1
+MLP,Coliformes Termotolerantes,151,42.52,4.82,2.2,2
+LSTM,Coliformes Termotolerantes,151,49.04,5.0,2.24,2
+MLP,Coliformes Termotolerantes,151,54.18,9.12,3.02,3
+LSTM,Coliformes Termotolerantes,151,58.46,6.04,2.46,3
+MLP,Coliformes Termotolerantes,151,62.67,13.8,3.71,4
+LSTM,Coliformes Termotolerantes,151,33.38,2.18,1.48,4
+MLP,Coliformes Termotolerantes,151,46.26,6.95,2.64,5
+LSTM,Coliformes Termotolerantes,151,70.96,9.19,3.03,5
+MLP,Coliformes Termotolerantes,151,63.78,10.03,3.17,6
+LSTM,Coliformes Termotolerantes,151,44.96,3.69,1.92,6
+MLP,Coliformes Termotolerantes,151,53.67,6.77,2.6,7
+LSTM,Coliformes Termotolerantes,151,33.77,2.15,1.47,7
+MLP,Coliformes Termotolerantes,151,59.8,10.94,3.31,8
+LSTM,Coliformes Termotolerantes,151,48.79,4.48,2.12,8
+MLP,Coliformes Termotolerantes,151,81.99,17.56,4.19,9
+LSTM,Coliformes Termotolerantes,151,67.1,7.89,2.81,9
+MLP,Coliformes Termotolerantes,151,75.52,12.08,3.48,10
+LSTM,Coliformes Termotolerantes,151,93.09,13.85,3.72,10
+MLP,Oxigênio Dissolvido,204,27.31,0.16,0.4,1
+LSTM,Oxigênio Dissolvido,204,27.2,0.17,0.41,1
+MLP,Oxigênio Dissolvido,204,28.69,0.18,0.42,2
+LSTM,Oxigênio Dissolvido,204,27.15,0.17,0.41,2
+MLP,Oxigênio Dissolvido,204,27.82,0.18,0.42,3
+LSTM,Oxigênio Dissolvido,204,26.52,0.16,0.4,3
+MLP,Oxigênio Dissolvido,204,26.98,0.17,0.41,4
+LSTM,Oxigênio Dissolvido,204,27.01,0.17,0.41,4
+MLP,Oxigênio Dissolvido,204,27.04,0.16,0.4,5
+LSTM,Oxigênio Dissolvido,204,26.96,0.16,0.4,5
+MLP,Oxigênio Dissolvido,204,26.36,0.15,0.39,6
+LSTM,Oxigênio Dissolvido,204,26.91,0.16,0.4,6
+MLP,Oxigênio Dissolvido,204,25.79,0.14,0.38,7
+LSTM,Oxigênio Dissolvido,204,26.95,0.16,0.4,7
+MLP,Oxigênio Dissolvido,204,26.36,0.16,0.4,8
+LSTM,Oxigênio Dissolvido,204,26.88,0.16,0.4,8
+MLP,Oxigênio Dissolvido,204,27.07,0.17,0.41,9
+LSTM,Oxigênio Dissolvido,204,27.11,0.17,0.41,9
+MLP,Oxigênio Dissolvido,204,28.2,0.17,0.41,10
+LSTM,Oxigênio Dissolvido,204,27.07,0.16,0.4,10
+MLP,Turbidez,189,78.89,0.82,0.91,1
+LSTM,Turbidez,189,85.23,0.92,0.96,1
+MLP,Turbidez,189,70.9,0.71,0.84,2
+LSTM,Turbidez,189,84.6,0.94,0.97,2
+MLP,Turbidez,189,69.6,0.68,0.83,3
+LSTM,Turbidez,189,89.09,1.06,1.03,3
+MLP,Turbidez,189,74.46,0.83,0.91,4
+LSTM,Turbidez,189,93.41,1.15,1.07,4
+MLP,Turbidez,189,68.4,0.64,0.8,5
+LSTM,Turbidez,189,90.68,1.09,1.04,5
+MLP,Turbidez,189,60.03,0.57,0.76,6
+LSTM,Turbidez,189,88.29,1.02,1.01,6
+MLP,Turbidez,189,63.59,0.62,0.79,7
+LSTM,Turbidez,189,79.52,0.83,0.91,7
+MLP,Turbidez,189,67.7,0.66,0.81,8
+LSTM,Turbidez,189,86.22,0.98,0.99,8
+MLP,Turbidez,189,57.21,0.56,0.75,9
+LSTM,Turbidez,189,91.46,1.1,1.05,9
+MLP,Turbidez,189,51.67,0.52,0.72,10
+LSTM,Turbidez,189,75.82,0.74,0.86,10
+MLP,Fósforo Total,192,15.13,0.51,0.72,1
+LSTM,Fósforo Total,192,15.96,0.46,0.68,1
+MLP,Fósforo Total,192,16.06,0.57,0.75,2
+LSTM,Fósforo Total,192,15.61,0.5,0.7,2
+MLP,Fósforo Total,192,16.87,0.55,0.74,3
+LSTM,Fósforo Total,192,15.41,0.51,0.71,3
+MLP,Fósforo Total,192,16.67,0.6,0.78,4
+LSTM,Fósforo Total,192,15.19,0.47,0.68,4
+MLP,Fósforo Total,192,15.93,0.5,0.7,5
+LSTM,Fósforo Total,192,15.15,0.48,0.69,5
+MLP,Fósforo Total,192,17.64,0.63,0.8,6
+LSTM,Fósforo Total,192,15.34,0.52,0.72,6
+MLP,Fósforo Total,192,15.9,0.54,0.73,7
+LSTM,Fósforo Total,192,15.71,0.5,0.71,7
+MLP,Fósforo Total,192,18.12,0.55,0.74,8
+LSTM,Fósforo Total,192,15.73,0.56,0.75,8
+MLP,Fósforo Total,192,17.62,0.53,0.73,9
+LSTM,Fósforo Total,192,15.31,0.52,0.72,9
+MLP,Fósforo Total,192,16.67,0.52,0.72,10
+LSTM,Fósforo Total,192,15.88,0.48,0.69,10
+MLP,Sólido Total,205,1.96,0.01,0.09,1
+LSTM,Sólido Total,205,2.3,0.01,0.11,1
+MLP,Sólido Total,205,2.49,0.01,0.12,2
+LSTM,Sólido Total,205,2.23,0.01,0.11,2
+MLP,Sólido Total,205,1.81,0.01,0.09,3
+LSTM,Sólido Total,205,2.21,0.01,0.1,3
+MLP,Sólido Total,205,1.81,0.01,0.09,4
+LSTM,Sólido Total,205,2.25,0.01,0.11,4
+MLP,Sólido Total,205,1.36,0.01,0.09,5
+LSTM,Sólido Total,205,1.62,0.01,0.1,5
+MLP,Sólido Total,205,1.04,0.01,0.08,6
+LSTM,Sólido Total,205,1.48,0.01,0.09,6
+MLP,Sólido Total,205,0.88,0.01,0.07,7
+LSTM,Sólido Total,205,0.98,0.01,0.08,7
+MLP,Sólido Total,205,0.84,0.0,0.07,8
+LSTM,Sólido Total,205,2.49,0.02,0.13,8
+MLP,Sólido Total,205,1.35,0.01,0.09,9
+LSTM,Sólido Total,205,1.25,0.01,0.09,9
+MLP,Sólido Total,205,4.9,0.06,0.24,10
+LSTM,Sólido Total,205,11.05,0.27,0.52,10
+MLP,"DBO (5, 20)",161,9.18,0.01,0.11,1
+LSTM,"DBO (5, 20)",161,10.51,0.01,0.12,1
+MLP,"DBO (5, 20)",161,8.78,0.01,0.1,2
+LSTM,"DBO (5, 20)",161,9.95,0.01,0.11,2
+MLP,"DBO (5, 20)",161,8.82,0.01,0.1,3
+LSTM,"DBO (5, 20)",161,9.71,0.01,0.11,3
+MLP,"DBO (5, 20)",161,7.21,0.01,0.1,4
+LSTM,"DBO (5, 20)",161,6.75,0.01,0.1,4
+MLP,"DBO (5, 20)",161,7.0,0.01,0.1,5
+LSTM,"DBO (5, 20)",161,8.15,0.01,0.1,5
+MLP,"DBO (5, 20)",161,6.93,0.01,0.11,6
+LSTM,"DBO (5, 20)",161,8.13,0.01,0.1,6
+MLP,"DBO (5, 20)",161,7.58,0.01,0.1,7
+LSTM,"DBO (5, 20)",161,8.11,0.01,0.1,7
+MLP,"DBO (5, 20)",161,6.47,0.01,0.09,8
+LSTM,"DBO (5, 20)",161,9.13,0.01,0.11,8
+MLP,"DBO (5, 20)",161,8.7,0.01,0.12,9
+LSTM,"DBO (5, 20)",161,8.56,0.01,0.1,9
+MLP,"DBO (5, 20)",161,7.83,0.01,0.1,10
+LSTM,"DBO (5, 20)",161,8.87,0.01,0.11,10
+MLP,Temperatura da Água,195,2.96,0.01,0.11,1
+LSTM,Temperatura da Água,195,2.77,0.01,0.1,1
+MLP,Temperatura da Água,195,3.04,0.01,0.11,2
+LSTM,Temperatura da Água,195,2.95,0.01,0.11,2
+MLP,Temperatura da Água,195,3.0,0.01,0.12,3
+LSTM,Temperatura da Água,195,3.06,0.01,0.11,3
+MLP,Temperatura da Água,195,2.94,0.01,0.11,4
+LSTM,Temperatura da Água,195,2.78,0.01,0.1,4
+MLP,Temperatura da Água,195,2.74,0.01,0.1,5
+LSTM,Temperatura da Água,195,2.6,0.01,0.1,5
+MLP,Temperatura da Água,195,3.0,0.01,0.12,6
+LSTM,Temperatura da Água,195,2.55,0.01,0.1,6
+MLP,Temperatura da Água,195,3.13,0.01,0.12,7
+LSTM,Temperatura da Água,195,2.71,0.01,0.1,7
+MLP,Temperatura da Água,195,2.79,0.01,0.11,8
+LSTM,Temperatura da Água,195,2.84,0.01,0.11,8
+MLP,Temperatura da Água,195,2.68,0.01,0.1,9
+LSTM,Temperatura da Água,195,2.85,0.01,0.1,9
+MLP,Temperatura da Água,195,2.53,0.01,0.1,10
+LSTM,Temperatura da Água,195,2.58,0.01,0.1,10
+MLP,pH,179,1.54,0.0,0.03,1
+LSTM,pH,179,1.53,0.0,0.03,1
+MLP,pH,179,1.51,0.0,0.03,2
+LSTM,pH,179,1.49,0.0,0.03,2
+MLP,pH,179,1.6,0.0,0.03,3
+LSTM,pH,179,1.56,0.0,0.03,3
+MLP,pH,179,1.58,0.0,0.03,4
+LSTM,pH,179,1.49,0.0,0.03,4
+MLP,pH,179,1.65,0.0,0.04,5
+LSTM,pH,179,1.54,0.0,0.03,5
+MLP,pH,179,1.69,0.0,0.04,6
+LSTM,pH,179,1.46,0.0,0.03,6
+MLP,pH,179,1.57,0.0,0.03,7
+LSTM,pH,179,1.5,0.0,0.03,7
+MLP,pH,179,1.68,0.0,0.04,8
+LSTM,pH,179,1.55,0.0,0.03,8
+MLP,pH,179,1.64,0.0,0.04,9
+LSTM,pH,179,1.51,0.0,0.03,9
+MLP,pH,179,1.64,0.0,0.04,10
+LSTM,pH,179,1.51,0.0,0.03,10
